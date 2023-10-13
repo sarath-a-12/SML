@@ -1,0 +1,2 @@
+Skeleton 5
+d2f5Cd"Sharing"d"PrintSML"d"OS"d"ListMergeSort"ä¢TextIOPP"Cd"GenPickleSig"d"Util"d"GenSExpPickle"d"List"d"GenTypes"Cd"String"d"GetOpt"d"StringSubst"d"TextIO"d"AST"Nad"GenSML"jh9aä¢V"gp1d"SMLView"ad"ModV"gp2ÿ‚2d"Module"ad"TyV"gp2ÿ‚2d"Type"ad"ConV"gp2ÿ‚2d"Constr"Cad"S"gp1d"SML"ad"Opt"gp1d"Options"ad"PP"gp1ÿ/ad"GenMemoryPickle"êè0çð±å¢GenPickleFn"ad"GenFilePickle"ÿ…Nÿ…

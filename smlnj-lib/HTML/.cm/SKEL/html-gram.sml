@@ -1,0 +1,2 @@
+Skeleton 5
+ae"HTMLLrValsFn"i3aдўToken"gp1c"TOKEN"aдўHTMLAttrs"gp1c"HTML_ATTRS"f3дўList"дўHTML"яh2ad"ParserData"h7aдўHeader"и0aдўLrTable"gp2яяЃ4Caяgp1яbезр±яЃ4f6d"Char"CяЃ4яЃd"General"d"String"d"Array"Nbезр±яЃ(d2f3яЃd"HTMLAttrVals"я'aдўMlyValue"яЃ1ad"EC"h2я‚bяѓf2яѓ$я'ad"Actions"h2bяѓf4яЃ4яЃяѓ$я'f1яѓ$Nad"Tokens"jяЃ1gp1c"HTML_TOKENS"

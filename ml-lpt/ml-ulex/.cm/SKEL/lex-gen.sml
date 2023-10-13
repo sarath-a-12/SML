@@ -1,0 +1,2 @@
+Skeleton 5
+d2f5Cd"ListPair"ä¢RegExp"d"List"d"Options"d"AtomSet"Cd"Array2"d"LexSpec"d"Atom"ä¢LexOutputSpec"d"Vector"Nad"LexGen"jh4ad"RE"gp1ÿad"SIS"gp2ÿd"SymSet"ad"LO"gp1ÿad"Map"jè0gp1e"RedBlackMapFn"ÿ‚*

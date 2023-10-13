@@ -1,0 +1,2 @@
+Skeleton 5
+d2f7ä¢ULexBuffer"ä¢AntlrStreamPos"Cd"UTF8"ä¢String"d"Substring"d"TextIO"ä¢Vector"Nad"ASDLLex"h1bd2aä¢UserDeclarations"h1aä¢T"gp1d"ASDLTokens"bd2egp1ÿ#f8ÿÿÿ#Cÿ9d"List"d"Atom"ÿ*ÿNf0f3ÿÿÿ#

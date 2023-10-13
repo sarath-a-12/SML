@@ -1,0 +1,2 @@
+Skeleton 5
+d2f7d"OS"d"StringCvt"Cd"Byte"d"Word8VectorSlice"d"Word8ArraySlice"d"NetHostDB"d"Int"Cd"NetServDB"d"INetSock"d"Word8Vector"d"Word8Array"d"Socket"Nad"SockUtil"jh2ad"C"gp1d"Char"ad"PC"gp1d"ParserComb"gp1c"SOCK_UTIL"

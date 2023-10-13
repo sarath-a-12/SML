@@ -1,0 +1,2 @@
+Skeleton 5
+ae"HTMLLexFn"i4aдўTokens"gp1c"HTML_TOKENS"aдўErr"gp1c"HTML_ERROR"aдўHTMLAttrs"gp1c"HTML_ATTRS"f6дўChar"CдўList"дўString"ядўTextIO"дўVector"Nh3aдўyyInput"jh3aдўTIO"gp1яЃ:ad"TSIO"gp2я‚d"StreamIO"ad"TPIO"gp1d"TextPrimIO"h0aдўUserDeclarations"h2aдўT"зр±яaдўElems"jh3aяяѓ8aя+gp1я+aяЃgp1яЃgp1e"HTMLElementsFn"bbd2egp1яѓf9d"IO"я‚яЃ яѓCяѓ4яЃ(яѓ>яЃ/я‚Nf0f1я‚

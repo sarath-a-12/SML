@@ -1,0 +1,2 @@
+Skeleton 5
+d2f6ä¢ULexBuffer"Cä¢AntlrStreamPos"d"UTF8"d"Word"ä¢List"d"Int"Cd"Option"ä¢String"d"Substring"d"TextIO"ä¢Vector"Nad"XMLLexer"h1bd2aä¢UserDeclarations"h1aä¢T"gp1d"XMLTokens"bd2egp1ÿ‚f7ÿÿCÿ‚ÿ‚ÿ1ÿÿ&Nf0f3ÿÿÿ‚

@@ -1,0 +1,2 @@
+Skeleton 5
+ae"CLexFun"i3aä¢Tokens"gp1c"C_TOKENS"aä¢TokTable"gp1c"TOKENTABLE"f7d"StringCvt"d"Char"Cd"CharVector"ä¢Int"ä¢SourceMap"d"String"d"LargeInt"Cd"Real"ÿä¢TextIO"ä¢Vector"ä¢IntInf"Nh3aä¢yyInput"jh3aä¢TIO"gp1ÿ‚ad"TSIO"gp2ÿƒd"StreamIO"ad"TPIO"gp1d"TextPrimIO"è0aä¢UserDeclarations"ÿƒ>bbd2egp1ÿ„f5Cd"IO"ÿ‚3ÿ„ÿ&d"List"Cÿ$ÿ*ÿÿ‚ÿ‚&Nf0f1ÿ‚3

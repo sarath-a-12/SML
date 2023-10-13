@@ -1,0 +1,2 @@
+Skeleton 5
+d2f8d"IOManager"d"OS"ä¢IO"Cd"CML"d"Position"d"Option"d"Syscall"ä¢BinPrimIO"Nad"PosixBinPrimIO"jh5Cad"SV"gp1d"SyncVar"ad"PrimIO"gp1ÿ?ad"Vec"gp1d"Word8Vector"ad"PF"gp2ä¢Posix"d"FileSys"ad"PIO"gp2ÿ‚%ÿNgp1c"OS_PRIM_IO"
